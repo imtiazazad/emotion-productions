@@ -1,0 +1,343 @@
+.App {
+  text-align: center;
+  background-color: #141313;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.logo{
+  height: 70px !important;
+}
+
+.navItem {
+  font-size: 16px;
+  color: #ffffff;
+  position: relative;
+}
+.navItem:hover {
+  color: #828b9a;
+  background-color: transparent;
+}
+.navItem:focus {
+  color: #828b9a;
+  background-color: transparent;
+}
+.active {
+  position: relative;
+  color: #ffffff;
+  background-color: transparent;
+}
+.active::after {
+  content: "";
+  position: absolute;
+  color: #222f3e;
+  bottom: -2px;
+  width: 16px;
+  height: 2px;
+  right: -1;
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+.navItem:hover::after {
+  content: "";
+  position: absolute;
+  color: #222f3e;
+  bottom: -2px;
+  width: 16px;
+  height: 2px;
+  right: -1;
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+.menu1 {
+  width: 30px;
+  height: 2px;
+  display: block;
+  background-color: #828b9a;
+}
+.menu2 {
+  width: 25px;
+  height: 2px;
+  margin-top: 5px;
+  display: block;
+  margin-left: auto;
+  background-color: #828b9a;
+}
+.menu3 {
+  width: 20px;
+  height: 2px;
+  margin-top: 5px;
+  display: block;
+  margin-left: auto;
+  background-color: #828b9a;
+}
+.navItemMobile {
+  font-size: 14px;
+  position: relative;
+  color: #ffffff !important;
+}
+.navItemMobileHover:hover {
+  background-color: #ffac45;
+}
+.zIndex {
+  z-index: 35555;
+}
+.marginBottomNavbar {
+  margin-bottom: 92px;
+}
+
+
+::-webkit-scrollbar {
+  width: 7px;
+  background: transparent;
+}
+
+::-webkit-scrollbar-track {
+  height: 100%;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  transition: 0.6s ease-in-out;
+  background-image: linear-gradient(#569800, #ff0808);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-image: linear-gradient(#ff0808, #569800);
+
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+
+/*========================== ux/ui Design  style  =============================*/
+.text-style h2 {
+  color: rgb(255, 255, 255);
+  font-family: Inter Tight;
+  font-weight: undefined;
+  line-height: 61px;
+  letter-spacing: 0px;
+  text-transform: capitalize;
+}
+
+
+.text-style p {
+  margin-top: 12px;
+  color: rgb(201, 201, 201);
+  font-family: Inter Tight;
+  font-size: 18px;
+  font-weight: undefined;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+
+.text-style-bottom h2 {
+  color: rgb(255, 255, 255);
+  font-family: Inter Tight;
+  font-weight: undefined;
+  line-height: 65px;
+  letter-spacing: 0px;
+  text-transform: capitalize;
+}
+
+.text-style-bottom h1 {
+
+  color: rgb(229, 229, 229);
+  font-family: Inter Tight;
+  font-weight: undefined;
+  line-height: 60px;
+  letter-spacing: 0px;
+  text-transform: capitalize;
+}
+
+.text-style-bottom p {
+
+
+  color: rgb(201, 201, 201);
+  font-family: Inter Tight;
+  font-size: 18px;
+  font-weight: undefined;
+  line-height: 31px;
+  letter-spacing: 0px;
+
+}
+
+.list a {
+  color: rgb(255, 255, 255);
+  font-family: Inter Tight;
+  font-size: 26px;
+  font-weight: undefined;
+  line-height: 31px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.discus {
+  background: linear-gradient(88.85deg, rgba(30, 38, 113, 1.00) 0%, rgba(193, 55, 100, 1.00) 100%);
+  border-radius:20px;
+}
+
+.service h2 {
+  color: rgb(255, 255, 255);
+  font-family: Inter Tight;
+  font-size: 54px;
+  font-weight: undefined;
+  line-height: 65px;
+  letter-spacing: 0px;
+  text-transform: capitalize;
+}
+
+.service p {
+  color: rgb(201, 201, 201);
+  font-family: Inter Tight;
+  font-size: 18px;
+  font-weight: undefined;
+  line-height: 31px;
+  letter-spacing: 0px;
+  text-align: center;
+
+}
+
+.blog h2 {
+  color: rgb(255, 255, 255);
+  font-family: Inter Tight;
+  font-size: 14px;
+  font-weight: undefined;
+  line-height: 17px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-transform: capitalize;
+}
+
+.blog p {
+  color: rgb(255, 255, 255);
+  font-family: Inter Tight;
+  font-size: 18px;
+  font-weight: undefined;
+  line-height: 25px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-transform: capitalize;
+}
+
+.blog button {
+  color: rgb(255, 255, 255);
+  font-family: Inter Tight;
+  font-size: 14px;
+  font-weight: undefined;
+  line-height: 17px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.carousel-container {
+  position: relative;
+  margin: 0 auto;
+  width: 500px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.carousel-slide {
+  display: flex;
+  width: calc(500px * 3);
+  height: 100%;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-slide img {
+  width: 500px;
+  height: 300px;
+}
+
+.carousel-prev,
+.carousel-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+  text-decoration: none;
+}
+
+.carousel-prev {
+  left: 20px;
+}
+
+.carousel-next {
+  right: 20px;
+}
+
+.slick-slide img {
+  padding-right:10px; /* add 10 pixels of padding to the left and right sides of the image */
+}
+.slick-dots li button:before {
+  /* display: none !important; */
+  color: black !important;
+  font-size: 12px !important;
+}
+.slick-dots li.slick-active button:before{
+  /* display: none !important; */
+  color: whitesmoke !important;
+}
+.background{
+  background-color: #0E0E0E;
+    opacity: 0.8;
+    transition: 0.3s, border-radius 0.3s, opacity 0.3s;
+}

@@ -1,0 +1,397 @@
+{
+  "navbar": {
+    "home": "Thuis",
+    "carport": "Carport",
+    "furniture": "Meubilair",
+    "massagechair": "Massage stoel",
+    "lights": "Lichten"
+  },
+  "homepage": {
+    "whyEmotion": {
+      "title": "Waarom kiezen voor Emotion Productions?",
+      "desc1": "Heeft u gewacht op de dag waarop u uw eigen bedrijf start? Zoek niet verder! Wij bij Emotion Productions stellen beginnende ondernemers in staat hun ideeën om te zetten in succesvolle ondernemingen. Wij staan voor u klaar, ongeacht welke service u wilt om uw online bedrijf te laten groeien. Ons gevarieerde dienstenaanbod onderscheidt ons van onze concurrenten. Wij komen tegemoet aan uw behoeften met onze deskundige begeleiding, toegewijd team en uitzonderlijke klantenondersteuning. Omdat wij u helpen navigeren door de uitdagende zakenwereld, kunt u op ons rekenen als uw perfecte partner tijdens uw ondernemersreis.",
+      "desc2": "Neem direct contact met ons op en zie hoe uw visie tot leven komt!"
+    },
+    "company": {
+      "title": "Bedrijf",
+      "desc1": "Bij Emotion Productions zijn we meer dan een bedrijf dat zich toelegt op het stroomlijnen van uw ondernemerschapstraject. Wij willen start-ups of online bedrijven met of zonder innovatieve ideeën en ambities onwrikbaar ondersteunen. Wij bieden holistische diensten voor ambitieuze bedrijven om hun online business een boost te geven. Van het eerste concept tot de volledige exploitatie, wij staan voor u klaar. Met een toegewijd team van professionals combineren we verschillende vaardigheden om u een naadloze ervaring te bieden en deze naar ongekende niveaus te begeleiden.",
+      "desc2": "Doe met ons mee en breng uw bedrijf naar nieuwe hoogten!"
+    },
+    "owner": {
+      "title": "Eigenaar",
+      "desc1": "Mijn naam is Timon Eijsink, en ik ben ontwerper en oprichter van Emotion Production. Mijn doel is om kleine bedrijven en start-ups te helpen groeien. Wij bieden het afdrukken van merklogo's en andere ontwerpen. De zakenwereld is al verzadigd, en om je er doorheen te banen, moet je de juiste vakjes aanvinken, anders blijf je achter.",
+      "desc2": "Wij bij Emotion Production bieden u de beste en meest innovatieve ontwerpen voor stoffen, kleding en accessoires, helpen u bij het ontwerpen van uw digitale platform en brengen uw product overal op de markt.",
+      "desc3": "Wij verzorgen niet alleen uw strategie- en ontwerpafdeling, maar ook uw verpakkings- en presentatiedetails. U hoeft zich dus alleen maar op het product te concentreren, terwijl wij het aantrekkelijk en boeiend maken om meer klanten aan te trekken en uw merkimago op te bouwen."
+    },
+    "digitalSuccess": {
+      "title": "Ga voor digitaal succes met Emotion Productions: uw one-stop-oplossing!",
+      "desc1": "Klaar om uw online onderneming een boost te geven? Emotion Productions is jouw complete online business boost! Ons team van creatieve tovenaars biedt creatieve ideeën om het naar een hoger niveau te tillen. Wij staan voor u klaar, van digitale marketing tot SEO, van prototyping tot contentcreatie. Met Emotion Productions krijgt u holistische, gepersonaliseerde oplossingen om uw online bedrijfssucces te vergroten.",
+      "desc2": "Sluit je bij ons aan en bereid je voor op de overwinning!"
+    },
+    "brandConcepts": {
+      "title": "Onthul uw merkidentiteit en breng deze naar een hoger niveau met boeiende concepten.",
+      "desc1": "In de moordende concurrentie verdient uw merk het om briljant te schitteren. Met Emotion Productions maakt u van de essentie van uw merk een onvergetelijk verhaal. Wij zijn gespecialiseerd in het conceptualiseren van merken die een onuitwisbare indruk achterlaten. Na nauwgezet onderzoek en innovatie creëren we merkconcepten die resoneren met de doelgroep en die u helpen de juiste emoties op te roepen. Onze experts vormen de merkidentiteit, geven vorm aan het verhaal en de waarden van uw merk en bouwen sterke verbindingen met uw publiek op een dieper niveau, waardoor u zich onderscheidt van een bruisend digitaal landschap.",
+      "desc2": "Laten we verbinding maken om het tapijt van uw merk samen te weven."
+    },
+    "brandEmpowerment": {
+      "title": "Merk empowerment om uw merk potentieel te ontketenen",
+      "desc1": "Geef uw merk een boost met ons merkempowerment-motto. Naast het conceptualiseren van uw merk, voorzien we het ook van persoonlijkheid, visie en doel. Door gebruik te maken van marktinzichten formuleren we een strategische methodologie om uw merk te positioneren. Dit helpt je niet alleen om de betrokkenheid en verbindingen te versterken, maar maximaliseert ook de resonantie. Met onze deskundige begeleiding koestert u een loyale klantenbasis, waardoor uw bedrijf richting groei en succes wordt gestuwd.",
+      "desc2": "Houd je niet in! Ontdek onze kracht van merk empowerment om succes te stimuleren. Contacteer ons nu!"
+    },
+    "epServices": {
+      "title": "Emotie Productie Diensten",
+      "desc1": "Branding gaat verder dan het verkopen van uw dienst. Het omvat een emotionele mix van verhalen, innovatieve ideeën en ervaringen die u op emotioneel niveau met uw publiek verbinden. Bij Emotion Productions nemen we u mee in een wereld van emoties waar u aan uw online, emotioneel boeiende zakenreis kunt beginnen.",
+      "desc2": "We laten ons inspireren door het gefluister van de geschiedenis en de nieuwste trends om nieuwe maar innovatieve oplossingen te formuleren.",
+      "desc3": "Of u nu een uniek label of ontwerp wilt creëren, wij helpen u producten te maken die aan uw behoeften voldoen. Omdat onze aangeboden maatwerkoplossingen worden ondersteund door marktonderzoek en inzichten, krijgt u het product dat de hedendaagse consument aanspreekt.",
+      "desc4": "Wij maken nieuwe producten en doen er alles aan om u te helpen het eindproduct te krijgen dat aan uw behoeften voldoet. Terwijl we met u samenwerken vanaf het concept tot het eindproduct, zorgen wij ervoor dat uw product of merk een onbreekbare verbinding vormt met uw doelgroep.",
+      "desc5": "Onze diensten zijn geworteld in een erfenis van kwaliteit en tonen onze toewijding aan uitmuntendheid. Met ons uitgebreide dienstenaanbod willen wij uw verwachtingen overtreffen en nieuwe normen stellen.",
+      "desc6": "We beseffen hoe belangrijk het is om deadlines te halen; u zult tevreden zijn met onze professionaliteit en tijdige dienstverlening.",
+      "mkMeeting": "Maak een vergadering"
+    },
+    "ourServices": {
+      "title": "Wij zorgen ervoor dat we u een premium service kunnen bieden",
+      "desc": "Emotion Production biedt een allesomvattende oplossing voor degenen die willen floreren in de online zakenwereld. Wij creëren digitale identiteiten die resoneren en u helpen bij het ontwerpen van websites. Bij ons kunt u uw gebruikers een naadloze ervaring en apps bieden met een eenvoudig te gebruiken interface. Verder bieden we verpakkingsdiensten aan die uw producten naar een hoger niveau tillen door middel van emotiegedreven verhalen. Daarnaast bieden we animatie, contentopnamen, accessoires en prototypingdiensten.",
+      "s1": "Digitale branding",
+      "s2": "Webontwerp",
+      "s3": "Verpakking",
+      "s4": "Animatie",
+      "s5": "Inhoud fotograferen",
+      "s6": "UX UI-ontwerp",
+      "s7": "Prototyping",
+      "s8": "Accessoires"
+    }
+  },
+  "aboutUsPage": {
+    "aboutEP": {
+      "title": "Over Emotie Productie",
+      "desc1": "Bent u van plan uw start-up te lanceren?",
+      "desc2": "Of wilt u voorkomen dat u wacht op potentiële klanten en niet het juiste bereik op internet krijgt?",
+      "desc3": "Welnu, wij hebben een oplossing voor al uw problemen!",
+      "desc4": "Emotion Production is de totaaloplossing voor al uw hindernissen: werk met ons samen om uw branding te verbeteren en uw aanwezigheid en impact in de digitale wereld te vergroten. Wij streven ernaar kleine bedrijven te ondersteunen en te helpen groeien en een betere markt voor iedereen te creëren. Van het bereiken van de juiste connecties tot het effectief op de markt brengen van uw vaardigheden en product: wij hebben alle middelen en diensten. Hier vindt u alles, van het afdrukken van logo's tot advies over de marketingstrategie. We begrijpen het merk, zorgen ervoor dat procedures worden ingezet en we zorgen voor de kleine details die jouw pad bepalen om uit te groeien tot een merk.",
+      "desc5": "Van het maken van prototypes tot het lanceren van uw producten, de marketing en de levering: wij staan voor u klaar bij elke stap. Niet alleen dat, maar wij zorgen ook voor uw bedrijfsimago, en van maatpakken die u kunt dragen tot vergaderingen en het versturen van souvenirs, ons team kan het allemaal regelen."
+    },
+    "mission": {
+      "title": "Missie",
+      "desc": "Bij Emotion Production geloven we dat elk bedrijf het recht heeft om een merk te worden, en bieden we een helpende hand om die droompositie te bereiken. Van het begeleiden van hen over verpakking en marketing tot het oplossen van hun reguliere logistieke problemen, wij zijn probleemoplossers om hun weg naar succes te vinden. Wij streven ernaar dat meer kleine bedrijven uitgroeien tot grote namen en de wereldmarkt zullen beïnvloeden met innovatieve ideeën, uitzonderlijke producten en een onverslaanbaar enthousiasme."
+    },
+    "vision": {
+      "title": "Visie",
+      "desc": "Wij zien de toekomst van de wereldeconomie als diverser en uitgebreider, met veel merken op de kaart in plaats van slechts een paar stippen in de grafiek. Het uitbreiden van de markt zal consumenten en ondernemers meer kansen geven om verschillende smaken en opties te hebben. We zien onszelf dus als een toonaangevend merkbureau of dienstverlener die een cruciale rol speelt bij het opbouwen van veel van de grote namen die zullen schitteren op het economische forum van de wereld."
+    },
+    "faq": {
+      "title": "Veel Gestelde Vragen",
+      "desc": "Hier vindt u de reeks vragen die u wellicht te binnen schiet. Als u nog meer vragen heeft, kunt u contact met ons opnemen",
+      "t1": "Wat voor soort diensten biedt u aan?",
+      "d1": "Wij bieden zakelijke marketing-, verpakkings-, digitale platformontwerp- en beheerdiensten. Daarnaast bieden wij advies- en strategievormingsdiensten waar u gebruik van kunt maken.",
+      "t2": "Levert u modeproducten en accessoires?",
+      "d2": "Ja, we hebben stoffen, en op het gebied van modeproducten, van maatpakken tot accessoires en andere items, hebben we onze klanten nog veel meer te bieden.",
+      "t3": "Heeft het werken met meerdere bedrijven binnen hetzelfde domein invloed op de prestaties?",
+      "d3": "We begrijpen het scenario van belangenverstrengeling, dus hebben we voor elk bedrijf afzonderlijke teams of agenten. Zelfs als we meerdere bedrijven uit dezelfde categorie hebben, geven we ieder zonder problemen de volle 100 procent.",
+      "t4": "Zijn uw producten milieuvriendelijk?",
+      "d4": "Ja, al onze verpakkingen zijn biologisch afbreekbaar en milieuvriendelijk. We zorgen er ook voor dat we minder synthetische producten gebruiken en een minimale afvalproductie hebben om het milieu te helpen."
+    }
+  },
+  "services": {
+    "digitalBrandPage": {
+      "subTitle": "De toekomst van digitale merken vormgeven",
+      "title": "Branding en digitaal bureau",
+      "topCrd": {
+        "crd1": {
+          "title": "Deskundigheid spreekt boekdelen",
+          "desc": "Wij geven uw digitale identiteit met meesterschap vorm. De expertise van ons team is ongekend en we hebben onze vaardigheden aangescherpt om u te helpen impactvolle digitale identiteiten te maken. We hebben u voorzien van onze ongeëvenaarde expertise, van merkstrategie tot digitaal ontwerp."
+        },
+        "crd2": {
+          "title": "Excellentie op maat",
+          "desc": "Omdat ieder merk uniek is, hanteren wij een aanpak op maat om tegemoet te komen aan uw wensen. Onze oplossingen op maat weerspiegelen de essentie en het publiek van uw merk. Wij geloven in een persoonlijke ervaring en werken met u samen, zodat u een digitale identiteit krijgt die u echt vertegenwoordigt."
+        },
+        "crd3": {
+          "title": "Resultaten die resoneren",
+          "desc": "Naast esthetiek geloven wij in het bouwen van merken die echte, impactvolle resultaten opleveren. We zorgen ervoor dat onze merkstrategieën resoneren met de doelgroep. Met een focus op het maken van waardevolle verbindingen en het vormgeven van digitale identiteiten, is ons team van experts toegewijd aan het bouwen van merken die gedijen in de digitale wereld."
+        }
+      },
+      "digitalStart": {
+        "title": "Perfecte digitale start",
+        "desc": "Onze digitale wizards en technologie-geeks toveren intuïtieve en unieke websites tevoorschijn die de hartslag van uw merk weerspiegelen. We doen er alles aan om de betrokkenheid en conversies te stimuleren. Met een mix van kunstenaarschap en technische finesse creëren we digitale bestemmingen die boeien en converteren.",
+        "cards": {
+          "crd1": {
+            "title": "Onderzoek",
+            "desc": "Onderzoek voedt onze strategieën om het pad van de digitale reis te ontketenen. We verdiepen ons in uw branche en analyseren de concurrenten om uw merk te onderscheiden. Zo begrijpen we het DNA van jouw niche en identificeren we verborgen pareltjes die anderen missen."
+          },
+          "crd2": {
+            "title": "Merk strategie",
+            "desc": "Het ontwikkelen van krachtige merkstrategieën die verbinding maken met uw publiek is onze kracht. Door uw overtuigingen, doelen, visie en waarden te begrijpen, formuleren we een plan dat elke digitale interactie begeleidt. Het is meer dan opgemerkt worden en een blijvende indruk achterlaten."
+          },
+          "crd3": {
+            "title": "Naamgeving",
+            "desc": "Heeft u nog geen keuze gemaakt over de namen van uw merken? Van verfijnde titels tot speelse namen, u kunt creatieve naamideeën opdoen die de essentie van uw merk samenvatten. Verder creëren we namen die jarenlang in onze gedachten blijven en moeiteloos van de tong rollen."
+          },
+          "crd4": {
+            "title": "Web en digitaal",
+            "desc": "Onze digitale wizards en technologie-geeks toveren intuïtieve en unieke websites tevoorschijn die de hartslag van uw merk weerspiegelen. We doen er alles aan om de betrokkenheid en conversies te stimuleren. Met een mix van kunstenaarschap en technische finesse creëren we digitale bestemmingen die boeien en converteren."
+          },
+          "crd5": {
+            "title": "Content creatie",
+            "desc": "Ons team van woordmakers creëert inhoud die de ziel van uw merk weerspiegelt. Of u uw publiek nu wilt onderwijzen, inspireren of vermaken, wij hebben het voor u."
+          },
+          "crd6": {
+            "title": "Overleg plegen",
+            "desc": "Wat is beter dan een betrouwbare gids die u helpt bij het navigeren door de digitale wereld? Met onze adviesservice kunt u eenvoudig door de digitale zee navigeren. Onze experts helpen u data en nieuwe trends te begrijpen en op de goede weg te blijven die tot succes leidt."
+          }
+        },
+        "innApp": {
+          "title": "Innovatieve aanpak",
+          "desc": "Wij geloven in anders denken, dus we nemen nieuwe creatieve ideeën op om u elke keer weer unieke ontwerpen te geven. We hebben een team dat over nieuwe benaderingen brainstormt en strategieën toepast die uniek zijn in hun soort, zodat u merkstrategieën krijgt die onvoorspelbaar zijn en een grotere respons opleveren."
+        },
+        "digiExp": {
+          "title": "Digitale experts",
+          "desc": "Wij zijn visionairs die uw merk tot leven brengen door middel van innovatieve ontwerpen. Onze experts doen hun uiterste best om voorop te blijven lopen door te letten op opkomende trends. We decoderen ze voordat ze gebeuren en gebruiken geavanceerde strategieën om uw digitale aanwezigheid te vergroten."
+        },
+        "showcase": {
+          "title": "Wilt u uw bedrijf onder de aandacht brengen?",
+          "cards": {
+            "crd1": {
+              "title": "Briefing",
+              "desc": "Wij letten op de kleinste details, zodat wat u in gedachten heeft werkelijkheid wordt. We stellen een gepersonaliseerd spelplan en een strategie op die passen bij uw behoeften en doelen en zien de toekomst zoals u voor ogen had om de verwachte resultaten te leveren."
+            },
+            "crd2": {
+              "title": "Merk strategie",
+              "desc": "Onze merkstrategieën zijn niet one-size-fits-all. We verlangen naar een apart stencil om de strategie te bepalen die bij uw bedrijfsmodel past. Elke brandingcampagne en blauwdruk is uniek en gepersonaliseerd. Onze essentiële strategische kernplanning vormt de basis voor uw campagne en geeft uw bedrijf een groter bereik dan verwacht."
+            },
+            "crd3": {
+              "title": "Perfecte ontwerpen",
+              "desc": "Wij creëren de meest fascinerende en artistieke ontwerpen voor uw websites en apps. Elke functie weerspiegelt de boodschap en theorie van uw merk, van logo's tot achtergrondthema's. We combineren de esthetiek en eenvoud, zodat u de artistieke toets krijgt zonder deze te overweldigen. Houd uw gebruikers geboeid door de schoonheid van ons ontwerp terwijl u uw boodschap en diensten effectief overbrengt."
+            }
+          }
+        }
+      }
+    },
+    "webDesignPage": {
+      "banner": {
+        "title": "Laat uw dienst/producten er aantrekkelijk uitzien met aantrekkelijke webpagina's en apps",
+        "desc1": "De online wereld is een geweldig platform om uw vaardigheden, producten en diensten op de markt te brengen, maar de concurrentie om de digitale wereld te betreden is zwaar. In digitale media is het winnen van meer potentiële klanten en meer verkeer een harde noot om te kraken.",
+        "desc2": "Maar met onze aantrekkelijke webpagina's en apps kunt u de verblijftijd van klanten aanzienlijk verlengen en het bouncepercentage verlagen. De klant communiceert met uw website en apps op internet. Deze moeten dus duidelijk, aantrekkelijk en gebruiksvriendelijk zijn om de boodschap over te brengen die u wilt overbrengen.",
+        "desc3": "Of u nu complexe cursussen of innovatie aanbiedt, met de juiste webpagina kunt u uw producten efficiënt op de markt brengen.",
+        "desc4": "Verspil dus geen tijd en geld aan webpagina's die te lang duren om te laden, gebruikers kunnen de gewenste tabbladen niet vinden of de informatie is vaag en moeilijk te lezen. Huur ons in voor een gebruiksvriendelijke webpagina en apps die sneller laden en een uniek ontwerp hebben."
+      },
+      "whyChooseUs": {
+        "title": "Waarom voor ons kiezen?",
+        "desc1": "Wanneer webdesign een integraal onderdeel is van de marketing van uw producten en van invloed is op de totale verkoop, kunt u niet zoveel risico lopen met een pagina van lage kwaliteit. Veel merken en bedrijven slagen er niet in hun bereik te vergroten vanwege een verouderde, saaie of trage webpagina.",
+        "desc2": "Wij weten hoe we de digitale algoritmen moeten kraken en ontwerpen een website of pagina die u meer klanten en ROI oplevert. Enkele van de belangrijkste redenen die ervoor zorgen dat wij de beste keuze zijn voor deze functie zijn:",
+        "card": {
+          "crd1": {
+            "title": "Leiderschap",
+            "desc": "Wij leiden vanaf de voorkant. Van out-of-the-box denken tot het uitproberen van nieuwe technieken en het op een elegante manier omgaan met risicofactoren: wij geven u het beste webontwerp met volledige respons en vertrouwen."
+          },
+          "crd2": {
+            "title": "Teamwerk",
+            "desc": "We weten dat er geen eenmansshow bestaat om iets groots te creëren. Daarom hebben we meerdere mensen in dienst die gespecialiseerd zijn in verschillende domeinen om een webdesign te leveren dat in alle opzichten perfect is. Van schitterende graphics tot backend-codering, elke klus wordt uitgevoerd door specialisten."
+          },
+          "crd3": {
+            "title": "Flexibiliteit",
+            "desc": "We aarzelen nooit om nieuwe dingen te proberen of veranderingen aan te brengen terwijl we het ontwerp ontwikkelen. Of u nu een themawijziging aan het einde wilt of nieuwe inhoud aan uw plan wilt toevoegen, u kunt dit altijd in uw webpagina of app opnemen."
+          }
+        }
+      },
+      "OurService": {
+        "title": "Diensten die u bij ons kunt krijgen zijn:",
+        "subTitle": "Ontdek de wereld van enorme creativiteit, technologie en SEO-vriendelijke webontwerpen die uw digitale marketingstrategie naar een hoger niveau tillen.",
+        "card": {
+          "crd1": {
+            "title": "Webontwerp",
+            "desc": "Prachtige webontwerpen en websites die betrouwbaar, aantrekkelijk en niet van de wereld zijn. We gebruiken de beste grafische afbeeldingen en kleuresthetiek, zodat iedereen die op uw pagina terechtkomt, onmiddellijk uw diensten of producten leert kennen."
+          },
+          "crd2": {
+            "title": "UX/UI-ontwerp",
+            "desc": "Gebruikerservaring en GUI zijn de leidende spelers bij het betrekken van klanten en kijkers op de site of app. Met gebruiksvriendelijke en navigeerbare interfaces zorgen we ervoor dat niemand uw pagina of app verlaat zonder te weten wat u aanbiedt."
+          },
+          "crd3": {
+            "title": "APP-ontwerp",
+            "desc": "We ontwerpen opmerkelijke APP's die compatibel zijn met alle softwareversies, zodat u gegarandeerd een uitgebreider netwerk krijgt zodat u gegarandeerd een uitgebreider netwerk krijgt zodat u gegarandeerd een uitgebreider netwerk krijgt."
+          }
+        }
+      }
+    },
+    "packagingPage": {
+      "aboutFoodPackaging": {
+        "title": "Over Eten Verpakking",
+        "desc1": "Wij bieden veilige en hygiënische verpakkingen voor start-ups in de voedingsindustrie, waarmee uw voedsel veilig, beschermd en gezond blijft. Wat de meeste verpakkingsbedrijven missen, is dat ze gevaarlijke of op chemicaliën gebaseerde dozen en verpakkingen gebruiken die de gezondheid van voedselproducten aantasten en het milieu schaden.",
+        "desc2": "Maar met Emotion Production zal dat nooit meer gebeuren. We gebruiken de beste en meest milieuvriendelijke verpakkingen met een aantrekkelijk en innovatief ontwerp en garanderen geen morsen, lekken of enig risico op voedseldegradatie."
+      },
+      "whyChoosePackaging": {
+        "title": "Waarom kiezen voor onze verpakkingen",
+        "desc1": "Emotion Production is een naam die bekend staat om zijn prestaties en kwaliteit. Wij bieden geweldige aanbiedingen waar kleine bedrijven van profiteren",
+        "desc2": "bij het laten groeien en vermarkten van hun naam. Enkele van de redenen die ons het beste maken zijn:",
+        "card": {
+          "crd1": {
+            "title": "Unieke ontwerpen",
+            "desc": "Bij EMotion Production vind je de meest out-of-the-box ideeën die uniek en aantrekkelijk zijn, en je zult zeker meer klanten aantrekken."
+          },
+          "crd2": {
+            "title": "Milieuvriendelijk",
+            "desc": "Al onze verpakkingsproducten, labels en andere materialen zijn gemaakt van milieuvriendelijke materialen, dus het kan geen kwaad om ze te gebruiken, en u draagt ook een steentje bij aan de voordelen voor de planeet."
+          },
+          "crd3": {
+            "title": "Beste kwaliteit",
+            "desc": "Wij leveren de beste kwaliteit verpakkingen die veilig zijn voor het milieu en uw producten en artikelen veilig en vrij van chemicaliën houden."
+          }
+        }
+      },
+      "anotherPackOffer": {
+        "title": "Nog een verpakking die wij aanbieden",
+        "desc": "Niet alleen onze voedselverpakkingsservice is geweldig, maar we bieden ook andere soorten verpakkingen aan, zoals:",
+        "card": {
+          "crd1": {
+            "title": "Geschenk Verpakking",
+            "desc": "Laat uw kostbare geschenken met liefde en zorg verpakken en een vleugje perfectie en schoonheid toevoegen met onze opmerkelijke geschenkverpakkingsdiensten. Door gebruik te maken van de beste kleurenpaletten en unieke stijlen, verpakken we uw cadeaus met emotie en voegen we een vleugje kunst toe die de ontvanger een tijdje in de ban zal houden."
+          },
+          "crd2": {
+            "title": "Kant-en-klare pakketten",
+            "desc": "Wij hebben kant-en-klare voedsel- en andere dozen, blikken, shoppers en koffers die u kunt kopen en gebruiken voor uw catering, decoratie, bakken of welk ander soort bedrijf dan ook. U kunt ook kant-en-klare verpakkingsverpakkingen, shoppers of dozen krijgen die uw bedrijven kunnen gebruiken voor leveringen."
+          },
+          "crd3": {
+            "title": "Verpakking in verwerking",
+            "desc": "We bieden ook verpakkingsdiensten aan voor productproductielocaties waar u tijdens het proces een verpakking nodig heeft, en we helpen u met het verzegelen en verpakken van de gevolgen voordat u ze verzendt."
+          }
+        }
+      },
+      "weProvidePack": {
+        "title": "Wij zorgen voor de beste verpakking!",
+        "desc": "Gebruik de meest voordelige, veilige verpakking zodat uw producten uw klanten bereiken zodra ze uw handen verlaten. Wij zorgen ervoor dat uw geschenken, etenswaren en producten met de zorg, precisie en uniciteit worden aangekoekt die geen enkel ander merk biedt."
+      },
+      "wePay": "Wij letten op details. Van het bevestigen van de notitiekaart tot het kiezen van de juiste kleur, wij creëren een pakket dat de klanten verbaast. We bieden luxe verpakkingen aan reguliere verpakkingen, maar elke stijl is innovatief, duurzaam en kostenvriendelijk",
+      "needMoreInfo": {
+        "title": "meer informatie nodig?",
+        "desc": "Wilt u meer weten over onze diensten en tarieven? Neem contact op met onze experts of kijk op onze website voor gedetailleerde informatie.",
+        "faqs": {
+          "t1": "Biedt u verpakkingsdiensten aan voor luxe artikelen?",
+          "d1": "Wij bieden luxe verpakkingen om uw dure artikelen zorgvuldig in te pakken en veilig af te leveren.",
+          "t2": "Verkoopt u bulk verpakkings materialen?",
+          "d2": "Ja, u kunt bij ons shoppers, noppenfolie, dozen en andere verpakkingsartikelen kopen of op maat gemaakte artikelen op bestelling laten maken."
+        }
+      }
+    },
+    "animationPage": {
+      "topBanner": {
+        "title": "MEETBARE en EFFECTIEVE RESULTATEN VOOR KLANTEN",
+        "desc": "Herdefinieer uw digitale aanwezigheid met een meeslepende en aantrekkelijkere weergave en strategie. Voeg wat kleur en leven toe aan uw websites en verouder met ongelooflijke animaties om meer kijkers te boeien en ze te binden om bij u te kopen.",
+        "card": {
+          "crd1": {
+            "title": "Digitale oplossingen",
+            "desc": "Het is het digitale tijdperk; je moet snel zijn en creatief denken om snelheid te winnen. Onze briljante animaties en digitale tools creëren een interactief platform om de juiste boodschap over te brengen aan uw klanten. Creëer een blijvende impact op hun gedachten, zodat uw merk blijft als ze denken aan een dienst of product dat u verkoopt."
+          },
+          "crd2": {
+            "title": "Slimme ervaring",
+            "desc": "Met kleurrijke animaties, bewegende beelden en pop-up navigatieknoppen creëer je een betere en slimmere gebruikerservaring die je merkimago een boost geeft en je helpt sneller te groeien."
+          },
+          "crd3": {
+            "title": "Resultaten met winst",
+            "desc": "Gebruik de juiste tools en diensten om het beste rendement op uw investering te behalen. Verbeter uw gebruikerservaring en maak uw websites en digitale platforms aantrekkelijker en kleurrijker om een hogere opkomst en meer omzet te genereren."
+          }
+        }
+      },
+      "weHelp": {
+        "title": "WIJ HELPEN HET BEDRIJF OPGROEIEN",
+        "desc": "Met de beste creatieve ideeën en klassieke ontwerpen bouwen we een opvallend merkimago op om u te helpen de verkoopladder te beklimmen en uit te groeien tot een prominenter bedrijf. Een betere digitale strategie en een meeslependere gebruikerservaring zijn de sleutels tot vitalere branding en marketing.",
+        "p1": "Een geweldige digitale ervaring creëren",
+        "p2": "Focus op mensen, interactie en samenwerking",
+        "p3": "Hoge normen van professionaliteit",
+        "p4": "Een andere manier van denken, zowel vanbinnen"
+      },
+      "whyChoose": {
+        "title": "Waarom voor ons kiezen?",
+        "desc": "Benieuwd wat ons onderscheidt in de markt. Laten we eens kijken!",
+        "card": {
+          "crd1": {
+            "title": "AANGEPASTE DOELSTELLING",
+            "desc": "Wij weten wat uw markt is en welke klanten we moeten targeten."
+          },
+          "crd2": {
+            "title": "BEDRIJF SHULPMIDDELEN",
+            "desc": "Wij bieden alle zakelijke tools op één platform om uw bedrijf te laten groeien."
+          },
+          "crd3": {
+            "title": "SEO-OPLOSSINGEN",
+            "desc": "Wij begrijpen de digitale markt en bieden u zoekmachine-geoptimaliseerde oplossingen"
+          },
+          "crd4": {
+            "title": "VERBETERINGEN",
+            "desc": "we staan altijd open voor feedback om onze prestaties te verbeteren en u de beste services te bieden"
+          },
+          "crd5": {
+            "title": "PROJECT STRATEGIE",
+            "desc": "We bedenken voor elke stap een strategie om een merk op te bouwen en wegen alle beslissingen zorgvuldig af"
+          },
+          "crd6": {
+            "title": "ONLINE HULP",
+            "desc": "U krijgt bij Emotion Production 24/7 online ondersteuning om ieder probleem op te lossen"
+          }
+        }
+      },
+      "joinCo": "WORD LID VAN DE 200+ BEDRIJVEN DIE ZEPTECH BEDRIJF VERTROUWEN"
+    },
+    "contentShootingPage": {
+      "topBanner": {
+        "title": "Continue opnamesnelheid en beschikbaarheid",
+        "desc1": "Maakt u zich zorgen over het klikken op aantrekkelijke foto's van uw producten of het presenteren van uw beste monsters?",
+        "desc2": "Maak je geen zorgen, want wij zijn er om dit voor je af te handelen."
+      },
+      "creativeMasters": {
+        "title": "Wij zijn creatieve meesters",
+        "desc1": "Met de juiste hoeken, shots en inhoud creëren we magische advertenties en afbeeldingen voor uw site en campagne. Vernieuw uw grijze en kleurloze pagina's en plaatsen en laat ons de creativiteit tonen die de kijk op eenvoudige dingen en producten zal veranderen.",
+        "desc2": "GODARD SLOW-CARB CHARTREUSE OCCUPY, TUMBLR BRIEFDRUK"
+      },
+      "dsForAll": {
+        "title": "Digitale oplossingen voor iedereen!",
+        "desc1": "Of u nu een logo wilt laten maken of een commerciële reclameshoot, brandingcontent of fantastische webontwerpen nodig heeft, ons talentshootingteam staat non-stop voor u klaar om opnamen te maken en inhoud voor u te genereren..",
+        "desc2": "Verander de dynamiek van uw verkoop door briljante grafische ontwerpen, verbluffende shots en innovatieve marketingideeën die uw bereik en merkpresentatie zullen vergroten."
+      }
+    },
+    "uiUxDesignPage": {
+      "topBanner": {
+        "title": "Toonaangevend UX/UI-designerontwerp",
+        "desc1": "Wij zijn een team van meest enthousiaste en ervaren ontwikkelaars en UI-ontwerpers die ongelooflijk snel ladende websites en apps maken. Onze ontwerpen en landingspagina's weerspiegelen uw merktheorie en communiceren de juiste boodschap die u aan uw klanten wilt overbrengen.",
+        "desc2": "Van eenvoudig te gebruiken en opwindende app-ontwerpen tot het aanvinken van de juiste tools en tabbladen op pagina's: wij zorgen ervoor dat er geen maas in het ontwerp zit.",
+        "desc3": "Een goede app of website zal meer interesse bij de gebruikers wekken en merkvertrouwen opbouwen waardoor ze voor altijd met u verbonden blijven."
+      },
+      "whatWeDo": {
+        "title": "Wat we doen",
+        "desc1": "Bij Emotion Production maken we geweldige apps en websites voor pc's en mobiele telefoons. Als u uw software of app probeert te lanceren, helpen wij u ook met het genereren van het prototype en het testen ervan via ons platform om het te verbeteren voordat het eindproduct wordt gelanceerd.",
+        "desc2": "We bieden ook grafisch ontwerp, animatie en contentcreatie voor uw sites en apps om ze aantrekkelijker en interactiever te maken."
+      },
+      "interactiveExp": {
+        "title": "Interactieve en klassieke UX voor verbeterde gebruikerservaring",
+        "desc": "Ontvang sneller ladende pagina's, eenvoudig te navigeren sites en apps die licht zijn en hoge prestaties leveren en zijn gemaakt met unieke graphics en functies, alleen door de beste ontwikkelaars en programmeurs. Kom naar Emotion Production en verbeter de gebruikerservaring om loyale klanten en een sterker merkimago te werven."
+      },
+      "mobileWeb": {
+        "title": "UX/UI voor mobiel en internet",
+        "desc": "We ontwerpen en creëren gebruikersinterfaces voor mobiel en websites en gebruiken tools om uw bestaande apps of sites efficiënter en spannender te maken."
+      },
+      "toolsUse": {
+        "title": "Hulpmiddelen die we gebruiken",
+        "desc": "Wij beschikken over de beste tools om aantrekkelijke ontwerpen en webpagina's te maken. Enkele van de tools die we hebben zijn dat wel",
+        "p1": "Schetsen",
+        "p2": "Adobe Illustrator",
+        "p3": "Adobe Photoshop",
+        "p4": "Figma",
+        "p5": "Invisie Studio",
+        "p6": "Adobe XD"
+      },
+      "letsDiscuss": {
+        "title": "Laten we uw project bespreken",
+        "desc": "Krijg gratis advies en deel uw projectconcept met ons, zodat we het kunnen omzetten in een fantastisch digitaal product.",
+        "btn": "Praat met onze experts"
+      }
+    },
+    "prototypePage": {},
+    "accessoriesPage": {
+      "topBanner": {
+        "title": "Over onze accessoires",
+        "desc": "Als u de juiste accessoires bij uw vergaderoutfit wilt of uitleg nodig heeft over wat u uw klanten of investeerders mee moet geven, bent u bij ons aan het juiste adres. Van tassen, brillen en tassen tot schoenen, wij hebben alles voor je. Kies bij ons uw favoriete cadeauverpakkingen of boeken in uw pak voor essentiële vergaderingen."
+      }
+    }
+  },
+  "greeting": "Hallo, wereld!",
+  "content": "Dit is een React-website.",
+  "valueableSpeech": "Waardevolle toespraak van onze CEO en oprichter",
+  "welcomeMessage": "Willkommen, klicken Sie auf den Globus, um die Sprache zu ändern."
+}

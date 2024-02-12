@@ -1,0 +1,397 @@
+{
+  "navbar": {
+    "home": "Home",
+    "carport": "Carport",
+    "furniture": "Furniture",
+    "massagechair": "Massage Chair",
+    "lights": "Lights"
+  },
+  "homepage": {
+    "whyEmotion": {
+      "title": "Why Choose Emotion Productions?",
+      "desc1": "Have you been waiting for the day when you launch your own business? Look no further! We at Emotion Productions empower budding entrepreneurs to transform their ideas into successful ventures. We have got you covered no matter what service you want to grow your online business. Our diverse range of services sets us apart from our competitors. We cater to your needs with our expert guidance, dedicated team, and exceptional customer support. Since we help you navigate the challenging business world, you can count on us as your perfect partner on your entrepreneurial journey.",
+      "desc2": "Contact us right away and witness your vision come to life! "
+    },
+    "company": {
+      "title": "Company",
+      "desc1": "At Emotion Productions, we are beyond a company dedicated to streamlining your entrepreneurship journey. We aim to offer unwavering support to start-ups or online businesses with or without innovative ideas and ambitions. We provide holistic services for aspiring companies to boost their online business. From initial concept to full-fledged operation, we have got you covered. With a dedicated team of professionals, we combine diverse skills to offer you a seamless experience, guiding it to unprecedented levels.",
+      "desc2": "Join us and soar your business to new heights!"
+    },
+    "owner": {
+      "title": "Owner",
+      "desc1": "My name is Timon Eijsink, and I am a designer and founder of Emotion Production. I aim to help small businesses and start-ups grow. We offer printing brand logos and other designs. The business world is already saturated, and to make your way through it, you need to tick the right boxes, or you will be left behind.",
+      "desc2": "We at Emotion Production provide you with the best and most innovative designs for fabrics, clothes, and accessories, help you design your digital platform, and market your product everywhere.",
+      "desc3": "We not only handle your strategy and design department, but we can also take care of your packaging and presentation details. So you just have to focus on the product while we make it appealing and engaging to attract more clients and build up your brand image."
+    },
+    "digitalSuccess": {
+      "title": "Embark on Digital Success With Emotion Productions — Your One-Stop Solution!",
+      "desc1": "Ready to ignite your online venture? Emotion Productions is your complete online business boost! Our team of creative wizards offers creative ideas to take it to the next level. We have your back from digital marketing to SEO, prototyping to content creation. With Emotion Productions, you get holistic, personalized solutions to fuel your online business success.",
+      "desc2": "Connect with us to gear up for triumph!"
+    },
+    "brandConcepts": {
+      "title": "Unveil your brand identity and elevate it with captivating concepts.",
+      "desc1": "In the cutthroat competition, your brand deserves to shine brilliantly. With Emotion Productions, make your brand's essence an unforgettable story. We specialize in conceptualizing brands that leave an indelible mark. After meticulous research and innovation, we craft brand concepts that resonate with targeted audiences and help you evoke the right emotions. Our experts sculpt brand identity, shape your brand's narrative and values, and build strong connections with your audience on a deeper level, setting you apart from a bustling digital landscape.",
+      "desc2": "Let's get connected to weave the tapestry of your brand together."
+    },
+    "brandEmpowerment": {
+      "title": "Brand Empowerment to unleash your brand potential",
+      "desc1": "Take your brand up a notch with our brand empowerment motto. Beyond conceptualizing your brand, we infuse it with personality, vision, and goal. By leveraging market insights, we formulate a strategic methodology to position your brand. This not only helps you amplify engagements and connections but also maximizes resonance. With our expert guidance, you will nurture a loyal customer base, propelling your business toward growth and success.",
+      "desc2": "Don’t hold back! Discover our power of brand empowerment to ignite success. Contact us now!"
+    },
+    "epServices": {
+      "title": "Emotion Productions Services",
+      "desc1": "Branding is beyond selling your service. It involves an emotional blend of stories, innovative ideas, and experiences that connect you with your audiences on an emotional level. At Emotion Productions, we take you into a world of emotions where you can embark on your online, emotionally engaging business journey. ",
+      "desc2": "We drive inspiration from history's whispers and the latest trends to formulate new yet innovative solutions.",
+      "desc3": "Whether you want to create a unique label or design, we help you craft products that cater to your needs. Since our offered bespoke solutions are backed by market research and insights, you get the product that appeals to today’s consumers.",
+      "desc4": "We make new products and strive hard to help you get the finished product according to your needs. While working with you from conception to the final product, we ensure your product or brand forms an unbreakable connection with your target market.",
+      "desc5": "Our services are rooted in a legacy of quality and show our commitment to excellence. With our vast range of services, we aim to exceed your expectations and set new standards.",
+      "desc6": "We realize the importance of meeting deadlines; you will be satisfied with our professionalism and on-time services.",
+      "mkMeeting": "Make a Meeting "
+    },
+    "ourServices": {
+      "title": "We make Sure that, to give you a premium service",
+      "desc": "Emotion Production offers an all-inclusive solution for those who want to thrive in the online business world. We craft digital identities that resonate and help you in web designing. With us, you can offer your users a seamless experience and apps with an easy-to-use interface. Further, we offer packaging services that elevate your products through emotion-driven stories. Besides, we provide animation, content shooting, accessories, and prototyping services.",
+      "s1": "Digital Branding",
+      "s2": "Web Design",
+      "s3": "Packaging",
+      "s4": "Animation",
+      "s5": "Content Shooting",
+      "s6": "UX UI Design",
+      "s7": "Prototyping",
+      "s8": "Accessories"
+    }
+  },
+  "aboutUsPage": {
+    "aboutEP": {
+      "title": "About Emotion Production",
+      "desc1": "Planning to launch your start-up?",
+      "desc2": "Or do you want to avoid waiting for potential customers and not getting the right reach on the internet?",
+      "desc3": "Well, we have a solution to all your problems!",
+      "desc4": "Emotion Production is the one-stop solution to all your hurdles—partner with us to improve your branding and make your presence and impact in the digital world. We aim to support and help grow small businesses and create a better market for all. From reaching the right connections to effectively marketing your skills and product, we have all the resources and services. You can find anything from logo printing to advisory on marketing strategy here. We understand the brand, making procedures deploy, and we take care of minor details that choose your path of growing into a brand.",
+      "desc5": "From prototype making to launching your products, marketing, and delivering, we are there for you at each step. Not only that, but we also take care of your business image, and from tailored suits for you to wear to meetings to sending out souvenirs, our team can manage it all."
+    },
+    "mission": {
+      "title": "Mission",
+      "desc": "At Emotion Production, we believe that each business has a right to become a brand, and we provide a helping hand to reach that dream position. From guiding them about packaging and marketing to solving their regular logistic issues, we are problem solvers to have their path to success. We aim to see more small businesses grow into big names and impact the world market with innovative ideas, exceptional products, and unbeatable zest."
+    },
+    "vision": {
+      "title": "Vision",
+      "desc": "We see the future of world economics as more diverse and extensive, with many brands on the map rather than just a few dots on the graph. Expanding the market will give consumers and business owners more chances to have different tastes and options. So, we envision ourselves as a leading brand-making agency or service provider that plays a vital role in building up many of the big names that will shine on the economic forum of the globe."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "desc": "Here is the Set of Questionaries May be comes up on your mind.If You do have have more question, You Can Contact Us",
+      "t1": "What kind of services do you offer?",
+      "d1": "We offer business marketing, packaging, digital platform design, and management services. In addition, we have advisory and strategy-making services that you can avail of.",
+      "t2": "Do you provide fashion products and accessories?",
+      "d2": "Yes, we have fabric, and in the fashion products range, from tailored suits to accessories and other items, we have much more to offer our clients.",
+      "t3": "Does working with multiple businesses of the same domain affect performance?",
+      "d3": "We understand the conflict of interest scenario, so we have separate teams or agents dedicated to each business. Even if we have multiple companies from the same category, we give each our 100 percent without any issues.",
+      "t4": "Are your products eco-friendly?",
+      "d4": "Yes, all of our packaging is biodegradable and eco-friendly. Also, we keep care that we use less synthetic products and have minimal waste production to help the environmental cause."
+    }
+  },
+  "services": {
+    "digitalBrandPage": {
+      "subTitle": "Crafting the Future of Digital Brands",
+      "title": "Branding & Digital Agency",
+      "topCrd": {
+        "crd1": {
+          "title": "Expertise speaks volume",
+          "desc": "We shape your digital identities with mastery. The expertise of our team is beyond measure, and we have honed our skills to help you make impactful digital identities. We have covered you with our unmatched expertise, from brand strategy to digital design."
+        },
+        "crd2": {
+          "title": "Tailored excellence",
+          "desc": "Since every brand is unique, we utilize a customized approach to cater to your needs. Our tailored solutions reflect your brand’s essence and audience. We believe in personalized experience and collaborate with you, ensuring you get a digital identity that truly represents you."
+        },
+        "crd3": {
+          "title": "Results that resonate",
+          "desc": "Beyond aesthetics, we believe in building brands that drive real-world, impactful results. We ensure our branding strategies resonate with the targeted audience. With a focus on making worthy connections and shaping digital identities, our team of experts is dedicated to building brands that thrive in the digital world."
+        }
+      },
+      "digitalStart": {
+        "title": "Perfect Digital Start",
+        "desc": "Our digital wizards and technology geeks conjure intuitive and unique websites that reflect your brand's heartbeat. We put in our efforts to drive engagement and conversions. With a blend of artistry and technical finesse, we craft digital destinations that captivate and convert.",
+        "cards": {
+          "crd1": {
+            "title": "Research",
+            "desc": "Research fuels our strategies to ignite the path of the digital journey. We immerse ourselves in your industry and analyze competitors to set your brand apart. This way, we understand the DNA of your niche and identify hidden gems that others miss."
+          },
+          "crd2": {
+            "title": "Brand Strategy",
+            "desc": "Crafting powerful brand strategies that connect with your audience is our strength. By understanding your beliefs, goals, vision, and values, we formulate a plan that guides every digital interaction. It's more than getting noticed and making a lasting impression."
+          },
+          "crd3": {
+            "title": "Naming",
+            "desc": "Haven't you decided on the names of your brands? From sophisticated titles to playful monikers, you can get creative name ideas that encapsulate your brand's essence. Further, we create names that stay in our minds for years and effortlessly roll off tongues. "
+          },
+          "crd4": {
+            "title": "Web & Digital",
+            "desc": "Our digital wizards and technology geeks conjure intuitive and unique websites that reflect your brand's heartbeat. We put in our efforts to drive engagement and conversions. With a blend of artistry and technical finesse, we craft digital destinations that captivate and convert."
+          },
+          "crd5": {
+            "title": "Content Creation",
+            "desc": "Our team of wordsmiths creates content that echoes your brand's soul. Whether you want to educate, inspire, or entertain your audience, we have you covered."
+          },
+          "crd6": {
+            "title": "Consulting",
+            "desc": "What's better than a reliable guide that helps you navigate the digital world? With our consulting service, you can easily navigate the digital sea. Our experts help you understand data and new trends and stay on the right track that leads to success."
+          }
+        },
+        "innApp": {
+          "title": "Innovative Approach",
+          "desc": "We believe in thinking differently, so we take in new creative ideas to give you unique designs every time. We have a team that brainstorms new approaches and applies strategies that are unique in their way, so you get branding strategies that are unpredictable and gain higher response."
+        },
+        "digiExp": {
+          "title": "Digital Experts ",
+          "desc": "We are visionaries who breathe life into your brand through innovative designs. Our experts strive hard to stay ahead by watching for upcoming trends. We decode them before they happen and utilize cutting-edge strategies to boost your digital presence. "
+        },
+        "showcase": {
+          "title": "Want to showcase your business?",
+          "cards": {
+            "crd1": {
+              "title": "Briefing",
+              "desc": "We pay attention to the minutest details, so what you have in mind comes to reality. We draft a personalized game plan and strategy to fit your needs and goals and see the future as you envisioned to deliver the expected results."
+            },
+            "crd2": {
+              "title": "Brand Strategy",
+              "desc": "Our brand strategies are not one-size-fits-all. We crave a separate stencil to set the strategy that fits your business model. Each branding campaign and blueprint is unique and personalized. Our vital core strategic planning sets the stage for your campaign and gives your business reach beyond expectations.."
+            },
+            "crd3": {
+              "title": "Perfect Designs",
+              "desc": "We create the most fascinating and artistic designs for your websites and apps. Each feature will reflect your brand message and theory, from logos to background themes. We blend in the aesthetics and simplicity so you get the artistic touch without overwhelming it. Keep your users captivated by our design's beauty while you effectively communicate your message and services. "
+            }
+          }
+        }
+      }
+    },
+    "webDesignPage": {
+      "banner": {
+        "title": "Make your service/products look appealing with attractive web pages and Apps",
+        "desc1": "The online world is a great platform to market your skills, products, and services, but the competition to enter the digital world is tough. In digital media, gaining more potential customers and getting higher traffic is a hard nut to crack.",
+        "desc2": "But with our enticing web pages and apps, you can significantly increase customer stay time and reduce the bounce back rate. The customer communicates with your website and apps on the internet, so they must be clear, engaging, and user-friendly to get the message you want to convey.",
+        "desc3": "Whether you offer complex courses or innovation, you can efficiently market your products with the correct webpage.",
+        "desc4": "So stop wasting your time and money on web pages that take too long to load, users can't find desired tabs, or the information is vague and difficult to read. Hire us to get a user-friendly web page and apps with a faster loading and unique design."
+      },
+      "whyChooseUs": {
+        "title": "Why Choose Us?",
+        "desc1": "When web design is integral to marketing your products and affecting overall sales, you can't risk that much stakes with a low-quality page. Many brands and businesses fail to increase reach due to an outdated, dull, or slow webpage.",
+        "desc2": "We know how to crack the digital algorithms and will design a website or page that gets you more customers and ROI. Some of the key reasons that make us your best picks for the job include:",
+        "card": {
+          "crd1": {
+            "title": "Leadership",
+            "desc": "We lead from the front. From thinking out of the box to trying new techniques and handling risk factors gracefully, we will give you the best web design with complete response and confidence."
+          },
+          "crd2": {
+            "title": "TeamWork",
+            "desc": "We know that there is no one-person show for creating something big. So, we employ multiple people who specialize in different domains to deliver a web design that is perfect in all aspects. From brilliant graphics to backend coding, each job is done by specialists."
+          },
+          "crd3": {
+            "title": "Flexibility",
+            "desc": "We never hesitate to try new things or make changes as we develop the design. Whether you want a theme change at the end or want to add some new content to your plan, you can always incorporate it into your webpage or app. "
+          }
+        }
+      },
+      "OurService": {
+        "title": "Services you can get from us are:",
+        "subTitle": "Discover the world of immense creativity, technology, and SEO-friendly web designs that will level up your digital marketing strategy.",
+        "card": {
+          "crd1": {
+            "title": "Web Design",
+            "desc": "Beautiful web designs and websites that are reliable, engaging, and out of the world. We use the best graphics and color aesthetics so anybody who lands on your page gets to know your services or products instantly."
+          },
+          "crd2": {
+            "title": "UX/UI Design",
+            "desc": "User experience and GUI are the leading players in engaging the customers and viewers on the site or App. With easy-to-use and navigate interfaces, we make sure no one leaves your page or App without knowing what you are offering,"
+          },
+          "crd3": {
+            "title": "APP Design",
+            "desc": "We design remarkable APPs compatible with all software versions, so you get a more extensive network without fail so you get a more extensive network without fail so you get a more extensive network without fail ."
+          }
+        }
+      }
+    },
+    "packagingPage": {
+      "aboutFoodPackaging": {
+        "title": "About Food Packaging",
+        "desc1": "We offer safe and hygienic packaging for the food industry start-ups that keeps your food safe, secure, and healthy. What most packaging companies miss is that they use hazardous or chemical-based boxes and packaging that affects the health of food products and dents the environment.",
+        "desc2": "But with Emotion Production, that won't happen ever. We use the best and most eco-friendly packaging that is appealing and innovative in design and ensures zero spills, leakages, or any risk of food degradation."
+      },
+      "whyChoosePackaging": {
+        "title": "Why choose our packaging",
+        "desc1": "Emotion Production is a name known for its performance and quality. We offer great deals that benefit small businesses",
+        "desc2": " in growing and marketing their name. Some of the reasons that make us best are:",
+        "card": {
+          "crd1": {
+            "title": "Unique Designs",
+            "desc": "At EMotion Production, you will find the most out-of-the-box ideas that are unique and appealing, and you will surely attract more customers."
+          },
+          "crd2": {
+            "title": "Eco-Friendly",
+            "desc": "All our packaging products, labels, and other materials are made from eco-friendly materials, so there is no harm in using them, and you will also have a share in benefitting the planet."
+          },
+          "crd3": {
+            "title": "Best quality",
+            "desc": "We deliver the best quality packaging that is safe for the environment and will keep your products and items safe and free from chemicals."
+          }
+        }
+      },
+      "anotherPackOffer": {
+        "title": "Another packaging we offer",
+        "desc": "Not only our food packaging service is incredible, but we offer other types of packaging, such as:",
+        "card": {
+          "crd1": {
+            "title": "Gift Packaging",
+            "desc": "Get your precious gifts packaged with love and care and a touch of perfection and beauty to them with our remarkable gift packaging services. From using the best color palates and unique styles, we wrap up your gifts with emotion and add a touch of art that will keep the receiver spellbound for a while,"
+          },
+          "crd2": {
+            "title": "Ready Use Packages",
+            "desc": "We have ready-to-use food and other boxes, tins, shoppers, and cases that you can buy and use for your catering, decoration, baking, or any other type of business. You can also get pre-made packing wraps, shoppers, or boxes for your companies to use for deliveries."
+          },
+          "crd3": {
+            "title": "Packaging in Process",
+            "desc": "We also offer packaging services for product manufacturing sites where you require packaging during the process, and we will help you seal and pack the consequences before you dispatch them."
+          }
+        }
+      },
+      "weProvidePack": {
+        "title": "We Provide the Best Packaging!",
+        "desc": "Avail the most economical, safe, and secure packing for your products to reach your customers as they leave your hands. We ensure that your gifts, food, and products are caked with care, precision, and uniqueness that no other brand offers."
+      },
+      "wePay": "We pay attention to details. From attaching the notecard to choosing the right color, we create a package that amazes the customers. We offer luxury packaging to regular ones, but each style is innovative, sustainable, and cost-friendly",
+      "needMoreInfo": {
+        "title": "Need more information?",
+        "desc": "Want to know about our services and charges? Get in touch with our experts or explore our website for detailed information.",
+        "faqs": {
+          "t1": "Do you provide packaging services for luxury items?",
+          "d1": "We offer luxury packaging to wrap and safely deliver your expensive items carefully.",
+          "t2": "Do you sell bulk packaging materials?",
+          "d2": "Yes, you can buy shoppers, bubble wraps, boxes, and other packaging items from us or get customized ones made to orders."
+        }
+      }
+    },
+    "animationPage": {
+      "topBanner": {
+        "title": "MEASURABLE & EFFECTIVE RESULTS FOR CUSTOMERS",
+        "desc": "Redefine your digital presence with an immersive and more attractive display and strategy. Add some colors and life to your websites and age with incredible animation to engage more viewers and tie them up to buy from you.",
+        "card": {
+          "crd1": {
+            "title": "Digital Solutions",
+            "desc": "It is the digital era; you must be fast and think creatively to gain pace. Our brilliant animations and digital tools create an interactive platform to convey the right message to your customers. Create a lasting impact on their minds that your brand remains when they think of a service or product you sell."
+          },
+          "crd2": {
+            "title": "Smart Experience",
+            "desc": "With colorful animations, moving images, and pop-up navigation buttons, you create a better and smarter user experience that pumps up your brand image and helps you grow faster."
+          },
+          "crd3": {
+            "title": "Results with Profit",
+            "desc": "Use the right tools and services to get the best returns on your investment. Enhance your user experience and make your websites and digital platforms more engaging and colorful to gain higher turnout and more sales."
+          }
+        }
+      },
+      "weHelp": {
+        "title": "WE HELP BUSINESS GROWING UP",
+        "desc": "With the best creative ideas and classic designs, we build a stand-out brand image to help you climb the sales ladder and grow into a more prominent company. Better digital strategy and a more immersive user experience are keys to more vital branding and marketing.",
+        "p1": "Creating a great digital experience",
+        "p2": "Focus on people, interactions and collaboration",
+        "p3": "High standards of professionalism",
+        "p4": "A different way of thinking, both inside"
+      },
+      "whyChoose": {
+        "title": "Why choose us?",
+        "desc": "Wondering what makes us stand out in the market. Let's have a look!",
+        "card": {
+          "crd1": {
+            "title": "CUSTOM TARGETING",
+            "desc": "We know what your market is and which customers to target."
+          },
+          "crd2": {
+            "title": "BUSINESS TOOLS",
+            "desc": "We provide all the business tools in one platform to grow your business."
+          },
+          "crd3": {
+            "title": "SEO SOLUTIONS",
+            "desc": "We understand the digital market and provide you with search engine-optimized solutions"
+          },
+          "crd4": {
+            "title": "IMPROVEMENTS",
+            "desc": "we are always open to feedback to improve our performance and deliver you the best services"
+          },
+          "crd5": {
+            "title": "PROJECT STRATEGY",
+            "desc": "We strategize for each step to build up a brand and carefully weigh all the decisions"
+          },
+          "crd6": {
+            "title": "ONLINE SUPPORT",
+            "desc": "You get 24/7 online support at Emotion production to resolve any problem "
+          }
+        }
+      },
+      "joinCo": "JOIN THE 200+ COMPANIES TRUSTING ZEPTECH COMPANY"
+    },
+    "contentShootingPage": {
+      "topBanner": {
+        "title": "Continuous Shooting speed and Availability",
+        "desc1": "Are you Worried about clicking appealing pictures of your products or presenting your best samples?",
+        "desc2": "Don't worry, as we are there to handle that for you."
+      },
+      "creativeMasters": {
+        "title": "We are creative masters",
+        "desc1": "With the right angles, shots, and content, we create magical ads and pictures for your site and campaign. Revamp your gray and colorless pages and places, and let us show the creativity that will change the outlook of simple things and products.",
+        "desc2": "GODARD SLOW-CARB CHARTREUSE OCCUPY, TUMBLR LETTERPRESS"
+      },
+      "dsForAll": {
+        "title": "Digital Solutions for All!",
+        "desc1": "Whether you want to get a logo made or need a commercial ad shoot, branding content, or create fabulous web designs, our talent shooting team is available non-stop to shoot and generate content for you.",
+        "desc2": "Change the dynamics of your sales through brilliant graphic designs, stunning shots, and innovative marketing ideas that will boost your reach and brand presentation."
+      }
+    },
+    "uiUxDesignPage": {
+      "topBanner": {
+        "title": "Leading UX/UI designer design ",
+        "desc1": "We are a team of most enthusiastic and experienced developers and UI designers that create incredibly fast-loading websites and apps. Our designs and landing pages will reflect your brand theory and communicate the right message you want to convey to your customers.",
+        "desc2": "From easy-to-use and exciting app designs to ticking all the right tools and tabs on pages, we ensure there is no loophole in the design.",
+        "desc3": "A good app or website will create more interest in the users and build brand trust that will keep them connected to you forever."
+      },
+      "whatWeDo": {
+        "title": "What we do",
+        "desc1": "At Emotion Production, we create incredible apps and websites for PCs and mobile phones. Also, if you are trying to launch your software or App, we help you generate the prototype and test run it through our platform to improve it before launching the final product.",
+        "desc2": "We also provide graphic designing, animation, and content creation for your sites and apps to make them more engaging and interactive."
+      },
+      "interactiveExp": {
+        "title": "Interactive and classic UX for enhanced user experience",
+        "desc": "Get faster-loading pages, easy-to-navigate sites, and apps that are light and high in performance and made with unique graphics and features only by the best developers and coders. Come to Emotion Production and level up your users' experience to gain loyal clients and a stronger brand image."
+      },
+      "mobileWeb": {
+        "title": "UX/UI for mobile and Web",
+        "desc": "We design and create user interfaces for mobile and Websites and use tools to make your existing Apps or sites more efficient and exciting."
+      },
+      "toolsUse": {
+        "title": "Tools we Use",
+        "desc": "We have the best tools to create enticing designs and web pages. Some of the tools we have are",
+        "p1": "Sketch",
+        "p2": "Adobe Illustrator",
+        "p3": "Adobe Photoshop",
+        "p4": "Figma",
+        "p5": "Invision Studio",
+        "p6": "Adobe XD"
+      },
+      "letsDiscuss": {
+        "title": "Let's Discuss Your Project",
+        "desc": "Get a free consultation and share your project concept with us so we can transform it into a fantastic digital product.",
+        "btn": "Talk to Our Experts"
+      }
+    },
+    "prototypePage": {},
+    "accessoriesPage": {
+      "topBanner": {
+        "title": "About Our Accessories",
+        "desc": "You are at the right spot if you want the right accessories with your meeting outfit or need clarification about what to give your clients or investors. From bags, glasses, and businesses to shoes, we have everything for you. Pick your favorite ones for gift boxes or books in your suit for essential meetings from us."
+      }
+    }
+  },
+  "greeting": "Hello, world!",
+  "content": "This is a React website.",
+  "valueableSpeech": "Valuable Speech From Our CEO & Founder",
+  "welcomeMessage": "Welcome, click on the globe to change the language."
+}
